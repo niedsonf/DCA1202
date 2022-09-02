@@ -1,0 +1,1 @@
+Ponteiro para uma função é a passagem do endereço de alocação da função. Desta forma o endereço pode ser passado como argumento para outra função, que por sua vez executará a função passada em seu escopo.

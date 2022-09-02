@@ -1,0 +1,11 @@
+VÁLIDOS
+aloha[2] = value;
+coisas[4][4] = aloha[3];
+pf = aloha;
+
+INVÁLIDOS
+scanf("%f", &aloha);
+aloha = value;
+printf("%f", aloha);
+coisas[5] = aloha;
+pf = value;

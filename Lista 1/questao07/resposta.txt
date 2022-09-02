@@ -1,0 +1,10 @@
+São válidas pois atribuem corretamente o endereço do 2 valor do array ao ponteiro e o primeiro do valor do array ao inteiro
+
+p = mat + 1;
+x = (*mat)++;
+
+
+São inválidas, pois incrementam o array além de atribuir o enredeço ao ponteiro
+
+p = mat++;
+p = ++mat;

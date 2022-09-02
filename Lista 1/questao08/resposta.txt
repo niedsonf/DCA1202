@@ -1,0 +1,1 @@
+Os programas imprimem os 3 primeiros valores do array 'vet' e os 3 endereços em hexadecimal relativos a esses valores, respectivamente.

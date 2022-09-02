@@ -1,0 +1,14 @@
+i & j -> int
+p & q -> ponteiros
+
+ILEGAIS
+q = *p;
+p = i;
+i = (*&)j;
+
+LEGAIS
+q = &j;
+p = &*&i;
+i = (*p)++ + *q;
+i = *&j;
+i = *&*&j;

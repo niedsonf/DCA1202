@@ -1,0 +1,2 @@
+O tempo de execução medido apenas na chamada da função de ordenação tendeu-se a zero nos dois casos. Comparando o tempo de execução de ponta a ponta de cada código, houve uma diferença ínfima na casa dos milissegundos, que possivelmente pode ter sido influencida pelo tempo de digitação na inserção dos valores.
+Os códigos das questões 14 e 15 já estão implementados com a impressão do tempo de execução.
